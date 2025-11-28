@@ -83,8 +83,8 @@ Open a PR with a short description
 
 Add screenshots to /public/screenshots/ and reference them:
 
-![Home](/public/screenshots/home.png)
-![Courses](/public/screenshots/courses.png)
+![Home](./public/screenshots/home.png)
+![Courses](./public/screenshots/courses.png)
 
 📜 License
 
