@@ -2,6 +2,7 @@
   "/ContactUs/page": "app/ContactUs/page.js",
   "/Contactus/page": "app/Contactus/page.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/contact/page": "app/contact/page.js",
   "/courses/page": "app/courses/page.js",
   "/design/page": "app/design/page.js",
   "/devops/page": "app/devops/page.js",
