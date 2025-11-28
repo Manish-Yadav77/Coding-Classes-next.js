@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Full Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Learn complete MERN stack development including React, Node.js, Express, and MongoDB with hands-on projects.",
+      "price": 4999,
+      "instructor": "Manish Kumar Yadav",
+      "isFeatured": true,
+      "image": "https://wallpaperaccess.com/full/9464177.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Mastery with React",
+      "slug": "frontend-mastery-react",
+      "description": "Master modern frontend development with React, Tailwind CSS, Hooks, State Management, and best practices.",
+      "price": 2999,
+      "instructor": "John Doe",
+      "isFeatured": false,
+      "image": "https://api.reliasoftware.com/uploads/building_front_end_with_react_0017fbc8c1.webp"
+    },
+    {
+      "id": 3,
+      "title": "Backend Development with Node.js",
+      "slug": "backend-development-node",
+      "description": "Become a backend expert by building secure and scalable servers using Node.js, Express, and JWT authentication.",
+      "price": 3499,
+      "instructor": "Aarav Sharma",
+      "isFeatured": true,
+      "image": "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png?w=600&h=338&q=50&fm=webp&bg=transparent"
+    },
+    {
+      "id": 4,
+      "title": "MongoDB Database Essentials",
+      "slug": "mongodb-database-essentials",
+      "description": "Learn MongoDB from scratch including CRUD operations, schema design, indexing, and aggregation pipelines.",
+      "price": 1999,
+      "instructor": "Priya Singh",
+      "isFeatured": false,
+      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1666518273753/opH0yIuJu.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
+    },
+    {
+      "id": 5,
+      "title": "JavaScript Zero to Hero",
+      "slug": "javascript-zero-to-hero",
+      "description": "A beginner-friendly JavaScript course covering fundamentals, advanced concepts, and real-world examples.",
+      "price": 2499,
+      "instructor": "Arjun Verma",
+      "isFeatured": false,
+      "image": "https://imgs.search.brave.com/NqWVbhqSi5-32ia6ewMtwo4h_m4KPTcYRV63dpMdeHg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93c3J2/Lm5sLz91cmw9aHR0/cHM6Ly9zMy51cy1l/YXN0LTEuYW1hem9u/YXdzLmNvbS9jcmVh/dG9yLWFzc2V0cy5j/b2RlZGFtbi5jb20v/ZGluZXNobGctNjQw/MGMxMGE3MTk1ZDcw/MDE0MDlkMjE5L0NP/VVJTRV9JTUFHRS8y/MDIzLTAzLTIxLzhk/ZDNlOGY4Y2UwNjZl/YmFjMzQ1NjhmYjA4/MWE5MzBhYTY2Y2Jk/YTgmdz0xMjgwJnE9/ODImb3V0cHV0PXdl/YnA"
+    },
+    {
+      "id": 6,
+      "title": "Full Stack Web Development with Django",
+      "slug": "full-stack-web-development-django",
+      "description": "Learn to build robust web applications using Django, Python, and PostgreSQL with practical projects.",
+      "price": 5499,
+      "instructor": "Sonal Gupta",
+      "isFeatured": true,
+      "image": "https://cdn.ostad.app/course/cover/2024-12-19T15-48-52.487Z-Full-Stack-Web-Development-with-Python,-Django-&-React.jpg"
+    },
+    {
+      "id": 7,
+      "title": "DevOps Fundamentals",
+      "slug": "devops-fundamentals",
+      "description": "Understand DevOps principles, CI/CD pipelines, containerization with Docker, and orchestration with Kubernetes.",
+      "price": 3999,
+      "instructor": "Rohit Mehta",
+      "isFeatured": false,
+      "image": "https://imgs.search.brave.com/Jw7S0HifJzXRNFcsbIY9purxwQnUGXNNYz14OL5ErQQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE2LzgzLzI4LzM1/LzM2MF9GXzE2ODMy/ODM1ODZfVjFaSWJL/QVhWM0pZRjV1QVdM/THNhWUZBdVdEVEpy/YU8uanBn"
+    }
+  ]
+}

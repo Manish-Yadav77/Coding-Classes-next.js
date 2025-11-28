@@ -1,0 +1,9 @@
+{
+  "/ContactUs/page": "app/ContactUs/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/courses/page": "app/courses/page.js",
+  "/design/page": "app/design/page.js",
+  "/devops/page": "app/devops/page.js",
+  "/page": "app/page.js",
+  "/web-dev/page": "app/web-dev/page.js"
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Coding/NextJs_Practice/musicApp/src/app/page.tsx"],"sourcesContent":["import Image from \"next/image\";\n\nexport default function Home() {\n  return (\n    <main className=\"min-h-screen bg-black/96 antialiased bg-grid-white/[0.02]\">\n      <h1 className=\"bg-gray-600 text-2xl text-center p-4\">Yadav Manish</h1>\n      \n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;kBACd,cAAA,8OAAC;YAAG,WAAU;sBAAuC;;;;;;;;;;;AAI3D"}}]
+}

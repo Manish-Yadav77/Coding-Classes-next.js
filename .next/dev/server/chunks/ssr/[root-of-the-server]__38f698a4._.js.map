@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/Coding/NextJs_Practice/musicnextjs/src/app/chai/page.tsx"],"sourcesContent":["export default function Chai() {\r\n  return<>\r\n   <h1 className=\"text-3xl font-bold underline text-center p-5\">Yadav Page</h1>\r\n\r\n  </>\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBAAM;kBACL,cAAA,8OAAC;YAAG,WAAU;sBAA+C;;;;;;;AAGhE"}}]
+}

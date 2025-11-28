@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Coding/NextJs_Practice/musicApp/src/app/courses/page.tsx"],"sourcesContent":["'use client'\r\n\r\nimport React from \"react\";\r\nimport { CardBody, CardContainer, CardItem } from \"@/components/ui/3d-card\";\r\nimport courseData from \"@/data/coding_course.json\"; \r\n\r\nfunction pages() {\r\n  return (\r\n    <div >courses</div>\r\n  )\r\n}\r\n\r\nexport default pages"],"names":[],"mappings":";;;;;AAAA;;AAMA,SAAS;IACP,qBACE,6LAAC;kBAAK;;;;;;AAEV;uCAEe"}}]
+}

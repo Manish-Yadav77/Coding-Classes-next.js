@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Coding/NextJs_Practice/musicApp/src/app/courses/page.tsx"],"sourcesContent":["\r\nimport React from 'react'\r\n\r\nfunction pages() {\r\n  return (\r\n    <div>courses</div>\r\n  )\r\n}\r\n\r\nexport default pages"],"names":[],"mappings":";;;;;;AAGA,SAAS;IACP,qBACE,8OAAC;kBAAI;;;;;;AAET;uCAEe"}}]
+}
