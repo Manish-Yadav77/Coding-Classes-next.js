@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Coding Classes
 
-## Getting Started
+![Project banner](./public/banner.png)
 
-First, run the development server:
+[![Next.js](https://img.shields.io/badge/Next.js-13+-black?style=flat-square&logo=nextdotjs)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.0-%23107AAC?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-%2338B2AC?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
+[![Aceternity UI](https://img.shields.io/badge/Aceternity-UI-6B7280?style=flat-square)](#)
+
+> A simple, responsive learning platform — my first Next.js project built while learning Next.js, TypeScript, and Aceternity UI.
+
+---
+
+## ✨ Features
+- Home, Courses, and Contact pages  
+- Responsive layout with Tailwind CSS  
+- UI components powered by Aceternity UI  
+- TypeScript for type safety  
+- Simple, clean UI ideal for learning and demos
+
+---
+
+## 🚀 Quick start
 
 ```bash
+# clone
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+
+# install
+npm install
+# or
+# pnpm install
+# yarn
+
+# dev
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# open http://localhost:3000
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🧭 Project structure
+/app                # Next.js app routes (or /pages if using pages router)
+  /courses
+  /contact
+  /design
+  /devops
+  /web-dev
+/components         # Reusable UI components
+/public             # Static assets (banner.png, demo.gif)
+/styles             # Global styles / Tailwind config
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🛠️ Environment & build
 
-## Learn More
+If you add env vars later, create .env.local and add keys. For production build:
 
-To learn more about Next.js, take a look at the following resources:
+npm run build
+npm run start
+# or deploy to Vercel directly
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✅ Tests & linting
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Add scripts if you use them, e.g.:
 
-## Deploy on Vercel
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
+}
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🤝 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This is my learning project — contributions and feedback are welcome.
+If you want to contribute:
+
+Fork the repo
+
+Create a branch feat/your-change
+
+Open a PR with a short description
+
+📸 Screenshots
+
+Add screenshots to /public/screenshots/ and reference them:
+
+![Home](/public/screenshots/home.png)
+![Courses](/public/screenshots/courses.png)
+
+📜 License
+
+MIT © Manish Kumar Yadav. See LICENSE for details.
