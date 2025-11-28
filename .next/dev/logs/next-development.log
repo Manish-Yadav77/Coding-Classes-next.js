@@ -24889,3 +24889,4 @@ Import traces:
 [05:10:57.792] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/contact/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
 [05:10:57.809] Server  LOG      ✓ Compiled in 38ms
 [05:10:58.816] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:00:11.180] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
