@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import React, { FormEvent, useState } from 'react';
 import { BackgroundBeams } from '@/components/ui/background-beams';
@@ -10,9 +10,6 @@ function page() {
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     console.log('Submitted:', { email, message });
-    alert('Thank you for contacting us!');
-    setEmail('');
-    setMessage('');
   };
 
   return (
@@ -61,5 +58,4 @@ function page() {
     </div>
   );
 }
-
 export default page;
