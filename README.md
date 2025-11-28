@@ -82,6 +82,7 @@ Open a PR with a short description
 📸 Screenshots
 
 Add screenshots to /public/screenshots/ and reference them:
+```
 
 ![Home](./public/screenshots/home.png)
 ![Courses](./public/screenshots/courses.png)
