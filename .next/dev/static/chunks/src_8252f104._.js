@@ -252,7 +252,7 @@ var _s = __turbopack_context__.k.signature();
 'use client';
 ;
 ;
-function ContactUs() {
+function page() {
     _s();
     const [email, setEmail] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('');
     const [message, setMessage] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('');
@@ -353,11 +353,8 @@ function ContactUs() {
         columnNumber: 5
     }, this);
 }
-_s(ContactUs, "mxdRTHxkiTeLOv2akPbesFCh75U=");
-_c = ContactUs;
-const __TURBOPACK__default__export__ = ContactUs;
-var _c;
-__turbopack_context__.k.register(_c, "ContactUs");
+_s(page, "mxdRTHxkiTeLOv2akPbesFCh75U=");
+const __TURBOPACK__default__export__ = page;
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
     __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
 }
